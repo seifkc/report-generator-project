@@ -1,0 +1,28 @@
+============================================================
+                        VFA-154 USR                         
+============================================================
+============================================================
+                        Pilot Roster                        
+============================================================
+Emily Williams - Rank: Maj - Callsign: Eagle
+David Anderson - Rank: Capt - Callsign: Bolt
+Carlos Martinez - Rank: Lt - Callsign: Thunder
+============================================================
+                     AIRCRAFT INVENTORY                     
+============================================================
+Aircraft Assigned: 3
+Active Aircraft: 3
+============================================================
+                     FLIGHT STATISTICS                      
+============================================================
+Total Flights: 3
+Total Flight Hours: 11.4
+Total Missions: 3
+============================================================
+                       Mission Types                        
+============================================================
+Recon Missions: 0
+Combat Missions: 2
+Training Missions: 1
+Patrol Missions: 0
+Transport Missions: 0
